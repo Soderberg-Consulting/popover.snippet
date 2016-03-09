@@ -1,6 +1,12 @@
 # popover.snippet
 jQuery popover snippet for OmniUpdate Campus CMS
 
+In Editor:  
+![snippet screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/snippet.screenshot.png)
+
+Published Page:  
+![popover screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/popover.screenshot.png)
+
 ## getting started
 * snippets are site-specific, so you will need to repeat this process for each site. 
   [more info](http://support.omniupdate.com/oucampus10/reusable-content/snippets/snippets-setup.html)
