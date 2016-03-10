@@ -16,7 +16,7 @@
 		   href="javascript:void(0)" 
 		   data-toggle="popover" 
 		   data-trigger="focus" 
-		   data-placement="{tbody/tr/td[@class='popover-placement']}" 
+		   data-placement="{tbody/tr/td/select/@name}" 
 		   data-content="{tbody/tr/td[@class='popover-content']}"
 		   data-original-title="{tbody/tr/td[@class='popover-header']}" 
 		>
