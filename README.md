@@ -22,4 +22,5 @@ Published Page:
 * click "+new"
 * give it a name, like "popover"
 * browse to the file location where the snippet is stored
+  * remember snippets must be loaded in the staging (OU Campus) server's file system for each and every site, even if you are including the xsl from a common site. I'm have no idea why it allows you to browse and select snippets from other sites, since it won't work when you try to load and actually use them - this seems like a bug in OU Campus to me, but maybe it's just a bug with our particular configuration.
 * save, and now the snippet is available in the WYSIWYG toolbar or gadget sidebar
