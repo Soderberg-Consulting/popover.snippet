@@ -1,10 +1,10 @@
 # popover.snippet
 jQuery popover snippet for OmniUpdate Campus CMS
 
-In Editor:  
+## In Editor:  
 ![snippet screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/snippet.screenshot.png)
 
-Published Page:  
+## Published Page:  
 ![popover screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/popover.screenshot.png)
 
 ## getting started
