@@ -16,10 +16,10 @@ jQuery popover snippet for OmniUpdate Campus CMS
     You can see if this is the case at the top of the source in one of your .pcf files and note the `site` attribute.
     For instance, `<?pcf-stylesheet path="/xsl/interior.xsl" site="templates" title="Interior Page" extension="php"?>`
     shows that this .pcf file is pulling `interior.xsl` from the site called "templates"
-* in your `common.xsl`, after the opening `<xsl:stylesheet>` tag, add this line `<xsl:import href="popover.table-transform.xsl"/>`
-* then goto content > snippets
+* in your `common.xsl`, after the opening `<xsl:stylesheet>` tag, add this line: `<xsl:import href="popover.table-transform.xsl"/>`
+* goto <kbd>content</kbd> > <kbd>snippets</kbd>
 * choose a snippet category, or create a new one
-* click "+new"
+* click <kbd>+new</kbd>
 * give it a name, like "popover"
 * browse to the file location where the snippet is stored
   * remember snippets must be loaded in the staging (OU Campus) server's file system for each and every site, even if you are including the xsl from a common site. I'm have no idea why it allows you to browse and select snippets from other sites, since it won't work when you try to load and actually use them - this seems like a bug in OU Campus to me, but maybe it's just a bug with our particular configuration.
