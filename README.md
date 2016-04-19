@@ -1,5 +1,5 @@
 # popover.snippet
-jQuery popover snippet for OmniUpdate Campus CMS
+[jQuery bootstrap popover](http://getbootstrap.com/javascript/#popovers) snippet for [OmniUpdate Campus CMS](http://omniupdate.com/products/oucampus/)
 
 ## In Editor:  
 ![snippet screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/snippet.screenshot.png)
