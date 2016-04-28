@@ -7,7 +7,7 @@
 ## Published Page:  
 ![popover screenshot](https://raw.githubusercontent.com/admonkey/popover.snippet/master/popover.screenshot.png)
 
-## getting started
+## Getting Started
 * snippets are site-specific, so you will need to repeat this process for each site. 
   [more info](http://support.omniupdate.com/oucampus10/reusable-content/snippets/snippets-setup.html)
 * upload `popover.inc` to your snippets folder, this is usually in `/_resources/snippets`
@@ -24,3 +24,6 @@
 * browse to the file location where the snippet is stored
   * remember snippets must be loaded in the staging (OU Campus) server's file system for each and every site, even if you are including the xsl from a common site. I'm have no idea why it allows you to browse and select snippets from other sites, since it won't work when you try to load and actually use them - this seems like a bug in OU Campus to me, but maybe it's just a bug with our particular configuration.
 * save, and now the snippet is available in the WYSIWYG toolbar or gadget sidebar
+
+## Notes
+* hyperlinks inside OU preview mode don't seem to work for off-site URLs, however, they work just fine when published.
